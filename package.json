@@ -1,0 +1,12 @@
+{
+  "name": "tf-sync-server",
+  "version": "1.0.0",
+  "description": "TaskFlux Ultra dual-device sync server",
+  "main": "sync-server.js",
+  "scripts": {
+    "start": "node sync-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
